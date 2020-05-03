@@ -1,4 +1,4 @@
-<h2>Example</h2>
+## Example
 
 <pre type="code-block"><code customStyle="true"><comment># function-example.fur</comment>
 <keyword>protogen</keyword> <function-name>zeroArgFunction</function-name> <keyword>{</keyword><keyword>}</keyword>:
