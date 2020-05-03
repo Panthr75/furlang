@@ -1,0 +1,13 @@
+# ignore nodejs stuff
+node_modules
+package-lock.json
+package.json
+
+# ignore stuff for building the html docs in /builds
+src
+typings
+config.json
+build.js
+
+# ignore the build section until I make the builder localize file names so it's not drive://location/to/the/file/thing/file.extension
+build
